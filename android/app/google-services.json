@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "142830631958",
+    "project_id": "letterboxd-clon",
+    "storage_bucket": "letterboxd-clon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142830631958:android:1cc0812256e7ceb274c937",
+        "android_client_info": {
+          "package_name": "com.example.letterboxd_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142830631958-e7sokr095urj0jst3vif7uk7a2nf1tuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO3cAengY1gV6qoIknjdpaAwIKU7Ke5aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142830631958-e7sokr095urj0jst3vif7uk7a2nf1tuc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "142830631958-anuuphc3fugk8pavm3897f4jnetfhs3n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.letterboxdClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
